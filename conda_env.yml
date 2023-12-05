@@ -160,8 +160,6 @@ dependencies:
     - gast==0.2.2
     - graph-nets==1.0.4
     - gym==0.18.0
-    - ipdb==0.13.7
-    - ipython==7.16.1
     - magent==0.1.14
     - networkx==2.5.1
     - pillow==7.2.0
